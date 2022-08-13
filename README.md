@@ -2,6 +2,8 @@
 
 Create Github Stats Generator using Python, Plotly, & Docker.
 
+![my stats](https://github.com/mrkresnofatih/mrkresnofatih/blob/main/generated/pygithubstatsimg.png)
+
 ## How to use
 
 1. Generate personal access token [here](https://github.com/settings/tokens).
