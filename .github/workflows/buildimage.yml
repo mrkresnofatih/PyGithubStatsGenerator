@@ -2,7 +2,7 @@ name: Dockerize the Application
 on:
   push:
     branches:
-      - prod
+      - master
 
 jobs:
   build-push:
