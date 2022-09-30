@@ -40,7 +40,7 @@ def get_languages_stats():
     
     result = {}
     remaininglangsize = alllangsize
-    for i in range(0, 8):
+    for i in range(0, 5):
         result[langnames[i]] = langsizes[i]
         remaininglangsize -= langsizes[i]
     result['Other'] = remaininglangsize
